@@ -17,3 +17,4 @@ Contents
    java
    git
    roadrunner
+   resources
