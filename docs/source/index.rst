@@ -14,4 +14,4 @@ Contents
 .. toctree::
 
    usage
-   Java
+   java
