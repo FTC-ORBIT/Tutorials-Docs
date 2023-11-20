@@ -1,4 +1,4 @@
-Installations and set-up
+Installations
 =====
 
 .. _installation:

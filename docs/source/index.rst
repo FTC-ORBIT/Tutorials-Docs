@@ -13,5 +13,5 @@ Contents
 
 .. toctree::
 
-   usage
+   Installations
    java
