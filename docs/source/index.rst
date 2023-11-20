@@ -15,4 +15,4 @@ Contents
    :maxdepth: 2
 
    install
-   support
+   java
