@@ -10,65 +10,61 @@ Java is a high-level, general-purpose, object-oriented, and secure programming l
    This project is under active development.
 
 Tutorials:
---------
+===================================
 
 
 Basics:
-~~~~~~~~~~
-.. _Java Syntax: https://www.w3schools.com/java/java_syntax.asp
-.. _Java Output: https://www.w3schools.com/java/java_output.asp
-.. _Java Comments: https://www.w3schools.com/java/java_comments.asp
-.. _Java Variables: https://www.w3schools.com/java/java_variables.asp
-.. _Java Identifiers: https://www.w3schools.com/java/java_identifiers.asp
-
+--------
+- [Java Syntax](https://www.w3schools.com/java/java_syntax.asp)
+- [Java Output](https://www.w3schools.com/java/java_output.asp)
+- [Java Comments](https://www.w3schools.com/java/java_comments.asp)
+- [Java Variables](https://www.w3schools.com/java/java_variables.asp)
+- [Java Identifiers](https://www.w3schools.com/java/java_identifiers.asp)
 Types:
-~~~~~~~~~~
-.. _Java Data Types: https://www.w3schools.com/java/java_data_types.asp
-.. _Java Numbers: https://www.w3schools.com/java/java_data_types_numbers.asp
-.. _Java Booleans: https://www.w3schools.com/java/java_data_types_boolean.asp
-.. _Java Type Casting: https://www.w3schools.com/java/java_type_casting.asp
-.. _Java Strings: https://www.w3schools.com/java/java_strings.asp
-
+--------
+- [Java Data Types](https://www.w3schools.com/java/java_data_types.asp)
+- [Java Numbers](https://www.w3schools.com/java/java_data_types_numbers.asp)
+- [Java Booleans](https://www.w3schools.com/java/java_data_types_boolean.asp)
+- [Java Type Casting](https://www.w3schools.com/java/java_type_casting.asp)
+- [Java Strings](https://www.w3schools.com/java/java_strings.asp)
 Math & Logic:
-~~~~~~~~~~
-.. _Java Operators: https://www.w3schools.com/java/java_operators.asp
-.. _Java Math: https://www.w3schools.com/java/java_math.asp
-.. _Java Booleans_Advanced: https://www.w3schools.com/java/java_booleans.asp
-.. _Java If ... Else: https://www.w3schools.com/java/java_conditions.asp
-.. _Java Short Hand If...Else (Ternary Operator): https://www.w3schools.com/java/java_conditions_shorthand.asp
-.. _Java Switch: https://www.w3schools.com/java/java_switch.asp
-
+--------
+- [Java Operators](https://www.w3schools.com/java/java_operators.asp)
+- [Java Math](https://www.w3schools.com/java/java_math.asp)
+- [Java Booleans](https://www.w3schools.com/java/java_booleans.asp)
+- [Java If ... Else](https://www.w3schools.com/java/java_conditions.asp)
+- [Java Short Hand If...Else (Ternary Operator)](https://www.w3schools.com/java/java_conditions_shorthand.asp)
+- [Java Switch](https://www.w3schools.com/java/java_switch.asp)
 Loops:
-~~~~~~~~~~
-.. _Java While: https://www.w3schools.com/java/java_while_loop.asp
-.. _Java For: https://www.w3schools.com/java/java_for_loop.asp
-.. _Java For each: https://www.w3schools.com/java/java_foreach_loop.asp
-.. _Java Break and Continue: https://www.w3schools.com/java/java_break.asp
-
+--------
+- [Java While](https://www.w3schools.com/java/java_while_loop.asp)
+- [Java For](https://www.w3schools.com/java/java_for_loop.asp)
+- [Java For Each](https://www.w3schools.com/java/java_foreach_loop.asp)
+- [Java Break and Continue](https://www.w3schools.com/java/java_break.asp)
 Arrays
-~~~~~~~~~~
-.. _Java Arrays: https://www.w3schools.com/java/java_arrays.asp
-.. _Java Arrays Loop: https://www.w3schools.com/java/java_arrays_loop.asp
-.. _Java Multi-Dimensional Arrays: https://www.w3schools.com/java/java_arrays_multi.asp
-
+--------
+- [Java Arrays](https://www.w3schools.com/java/java_arrays.asp)
+- [Java Arrays Loop](https://www.w3schools.com/java/java_arrays_loop.asp)
+- [Java Multi-Dimensional Arrays](https://www.w3schools.com/java/java_arrays_multi.asp)
 Methods
-~~~~~~~~~~
-.. _Java Methods: https://www.w3schools.com/java/java_methods.asp
-.. _Java Method Parameters: https://www.w3schools.com/java/java_methods_param.asp
-.. _Java Method Overloading: https://www.w3schools.com/java/java_methods_overloading.asp
-
+--------
+- [Java Methods](https://www.w3schools.com/java/java_methods.asp)
+- [Java Method Parameters](https://www.w3schools.com/java/java_methods_param.asp)
+- [Java Method Overloading](https://www.w3schools.com/java/java_methods_overloading.asp)
 OOP
-~~~~~~~~~~
-.. _Java OOP - What is OOP?: https://www.w3schools.com/java/java_oop.asp
-.. _Java Classes and Objects: https://www.w3schools.com/java/java_classes.asp
-.. _Java Class Attributes: https://www.w3schools.com/java/java_class_attributes.asp
-.. _Java Class Methods: https://www.w3schools.com/java/java_class_methods.asp
-.. _Java Constructors: https://www.w3schools.com/java/java_constructors.asp
-.. _Java Modifiers: https://www.w3schools.com/java/java_modifiers.asp
-.. _Java Encapsulation: https://www.w3schools.com/java/java_encapsulation.asp
-.. _Java Inheritance: https://www.w3schools.com/java/java_inheritance.asp
-.. _Java Polymorphism: https://www.w3schools.com/java/java_polymorphism.asp
-.. _Java Abstraction: https://www.w3schools.com/java/java_abstract.asp
-.. _Java Interface: https://www.w3schools.com/java/java_interface.asp
-.. _Java Enums: https://www.w3schools.com/java/java_enums.asp
+--------
+- [Java OOP - What is OOP?](https://www.w3schools.com/java/java_oop.asp)
+- [Java Classes and Objects](https://www.w3schools.com/java/java_classes.asp)
+- [Java Class Attributes](https://www.w3schools.com/java/java_class_attributes.asp)
+- [Java Class Methods](https://www.w3schools.com/java/java_class_methods.asp)
+- [Java Constructors](https://www.w3schools.com/java/java_constructors.asp)
+- [Java Modifiers](https://www.w3schools.com/java/java_modifiers.asp)
+- [Java Encapsulation](https://www.w3schools.com/java/java_encapsulation.asp)
+- [Java Inheritance](https://www.w3schools.com/java/java_inheritance.asp)
+- [Java Polymorphism](https://www.w3schools.com/java/java_polymorphism.asp)
+- [Java Abstraction](https://www.w3schools.com/java/java_abstract.asp)
+- [Java Interface](https://www.w3schools.com/java/java_interface.asp)
+- [Java Enums](https://www.w3schools.com/java/java_enums.asp)
 
+.. autosummary::
+   :toctree: generated
