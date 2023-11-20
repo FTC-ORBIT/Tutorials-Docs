@@ -1,8 +1,9 @@
 Welcome to Orbit FTC's documentation!
 ===================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Getting Started
+--------
+Check out :ref:`installation`.
 
 .. note::
 
@@ -12,7 +13,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-
    install
    java
+   git
