@@ -15,6 +15,7 @@ Tutorials:
 
 Basics:
 ~~~~~~~~~~
+'Java Syntax'_.
 .. _Java Syntax: https://www.w3schools.com/java/java_syntax.asp
 .. _Java Output: https://www.w3schools.com/java/java_output.asp
 .. _Java Comments: https://www.w3schools.com/java/java_comments.asp
