@@ -66,5 +66,3 @@ OOP
 - [Java Interface](https://www.w3schools.com/java/java_interface.asp)
 - [Java Enums](https://www.w3schools.com/java/java_enums.asp)
 
-.. autosummary::
-   :toctree: generated
