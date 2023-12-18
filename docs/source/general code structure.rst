@@ -21,8 +21,8 @@ First, we need to define all of our robot's states:
 
 Then, to define the wanted state from the driver we need to make the following function:
 ^^^^^^^^^^^^^^
-
 .. code-block:: java
+    
     private static RobotState getState(Gamepad gamepad) {
         return gamepad.dpad_up ? RobotState.TRAVEL
                 : gamepad.dpad_right ? RobotState.INTAKE
@@ -31,12 +31,11 @@ Then, to define the wanted state from the driver we need to make the following f
 
 After we know the wanted state, now we need to create a function that will run periodically:
 ^^^^^^^^^^^^^^
-
 ..note::
+     
      Disclaimer this code is just a simplified version of 14029's powerplay code. it will not work on the actual robot
-
-
 .. code-block:: java
+      
       private static void setSubsystemToState(Gamepad gamepad1, Gamepad gamepad2, Telemetry telemetry) {
             GlobalData.robotState = getState(gamepad1);
             switch (GlobalData.robotState) {
@@ -87,6 +86,7 @@ generic intake code example:
 
 
 .. code-block:: java
+
 public class Intake {
     public static final DcMotor motors[] = new DcMotor[2];
     private static float power;
