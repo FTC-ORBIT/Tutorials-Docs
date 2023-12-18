@@ -16,5 +16,6 @@ Contents
    install
    java
    git
+   general code structure
    roadrunner
    resources
