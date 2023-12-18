@@ -12,6 +12,7 @@ In Orbit FTC, we use state machines to define each system's and the whole robot'
 Implementation
 ----------------
 First, we need to define all of our robot's states:
+^^^^^^^^^^^^^^
 .. code-block:: java
 
    public enum RobotState {
@@ -28,8 +29,12 @@ Then, to define the wanted state from the driver we need to make the following f
     }
 
 After we know the wanted state, now we need to create a function that will run periodically:
+^^^^^^^^^^^^^^
+..note::
+     Disclaimer this code is just a simplified version of 14029's powerplay code. it will not work on the actual robot
+
+
 .. code-block:: java
-    //disclaimer, this code is just a simplified version of 14029's powerplay code. it will not work on the actual robot
       private static void setSubsystemToState(Gamepad gamepad1, Gamepad gamepad2, Telemetry telemetry) {
             GlobalData.robotState = getState(gamepad1);
             switch (GlobalData.robotState) {
@@ -67,12 +72,18 @@ After we know the wanted state, now we need to create a function that will run p
     }
 
 generic intake code example:
+^^^^^^^^^^^^^^
 .. code-block:: java
 
    public enum IntakeState {
     COLLECT, STOP, DEPLETE
     }
-    
+
+
+
+
+
+
 .. code-block:: java
 
 public class Intake {
