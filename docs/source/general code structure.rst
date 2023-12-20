@@ -86,7 +86,6 @@ IntakeState.java :
 Intake.java :
 ^^^^^^^^^^^^^^
 .. code-block:: java
-
 public class Intake {
     public static final DcMotor motors[] = new DcMotor[2];
     private static float power;
