@@ -72,7 +72,7 @@ After we know the wanted state, now we need to create a function that will run p
         lastState = GlobalData.robotState;
     }
 
-generic intake code example:
+Generic intake code example:
 ----------------
 
 IntakeState.java :
@@ -85,7 +85,9 @@ IntakeState.java :
 
 Intake.java :
 ^^^^^^^^^^^^^^
+
 .. code-block:: java
+    
 public class Intake {
     public static final DcMotor motors[] = new DcMotor[2];
     private static float power;
