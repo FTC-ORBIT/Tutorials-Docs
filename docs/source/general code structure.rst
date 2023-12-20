@@ -33,7 +33,7 @@ After we know the wanted state, now we need to create a function that will run p
 ^^^^^^^^^^^^^^
 ..note::
      
-     Disclaimer this code is just a simplified version of 14029's powerplay code. it will not work on the actual robot
+     Disclaimer: this code is just a simplified version of 14029's powerplay code. it will not work on the actual robot
 .. code-block:: java
       
       private static void setSubsystemToState(Gamepad gamepad1, Gamepad gamepad2, Telemetry telemetry) {
@@ -73,6 +73,9 @@ After we know the wanted state, now we need to create a function that will run p
     }
 
 generic intake code example:
+----------------
+
+IntakeState.java :
 ^^^^^^^^^^^^^^
 .. code-block:: java
 
@@ -80,11 +83,8 @@ generic intake code example:
     COLLECT, STOP, DEPLETE
     }
 
-
-
-
-
-
+Intake.java :
+^^^^^^^^^^^^^^
 .. code-block:: java
 
 public class Intake {
