@@ -5,7 +5,9 @@ general ftc
 
 - gm0: https://gm0.org/en/latest/
 
-- learn road runner: https://learnroadrunner.com/
+- learn road runner 0.5.6: https://learnroadrunner.com/
+
+- learn road runner 1.0 : https://rr.brott.dev/
 
 our slides
 ----------
