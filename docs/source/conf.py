@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Orbit FTC Tutorials'
-copyright = '2023, Ido Sobol'
-author = 'Ido Sobol'
+copyright = '2024, Ido Sobol,Eyal Sobol'
+author = 'Ido Sobol , Eyal Sobol'
 
 release = '0.1'
 version = '0.1.0'
