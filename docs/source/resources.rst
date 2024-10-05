@@ -1,6 +1,20 @@
 Resources
 =====
-gm0: https://gm0.org/en/latest/
-learn road runner: https://learnroadrunner.com/
+general ftc
+-----------
+
+- gm0: https://gm0.org/en/latest/
+
+- learn road runner: https://learnroadrunner.com/
+
+our slides
+----------
+
+- java : https://docs.google.com/presentation/d/1b369xpZpHdiQmtI6fvT4ugqWs_vzomdn8afnsqLBeTw/edit#slide=id.p
+
+- sdk and git and android stuido : https://docs.google.com/presentation/d/1JZJzimWOXXy2oQl4_JTTzfO3VGhh_sj4bU0wN_ePO6o/edit#slide=id.g306c5b65142_0_0
+
+
+- DashBoard and roadRunner : https://docs.google.com/presentation/d/1SdWJHwA7zu4is100_wlPvh2gzR-GxWnwQmu-U03IrtE/edit#slide=id.p
 
 
