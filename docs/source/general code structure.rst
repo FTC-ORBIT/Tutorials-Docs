@@ -1,4 +1,4 @@
-General Code Structer
+General Code Structure
 =====
 
 Finite State Machines
