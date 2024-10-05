@@ -7,8 +7,11 @@ Road Runner is a motion planning library, written for the FTC robotics competiti
 Designed primarily for autonomous robotic movement, it allows for complex path following and generation while maintaining control of velocity and acceleration.
 This enables bots to have more accurate and advanced path following capabilities.
 
-Link to the RoadRunner Docs:
+Link to the RoadRunner 0.5.6 Docs:
 https://learnroadrunner.com/
+
+link to RoadRunner 1.0 Docs:
+https://rr.brott.dev/
 
 Tips
 ----------------
