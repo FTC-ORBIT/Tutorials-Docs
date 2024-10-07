@@ -20,3 +20,5 @@ our slides
 - DashBoard and roadRunner : https://docs.google.com/presentation/d/1SdWJHwA7zu4is100_wlPvh2gzR-GxWnwQmu-U03IrtE/edit#slide=id.p
 
 
+- image proccesing : https://docs.google.com/presentation/d/1IMR5Cr6b7SVcJlWX__2Or19rD1hyc1Pc-Ok3NvX46kc/edit#slide=id.p
+
