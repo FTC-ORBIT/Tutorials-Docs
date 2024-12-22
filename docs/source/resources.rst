@@ -22,3 +22,5 @@ our slides
 
 - image proccesing : https://docs.google.com/presentation/d/1IMR5Cr6b7SVcJlWX__2Or19rD1hyc1Pc-Ok3NvX46kc/edit#slide=id.p
 
+- correct gamepads use : https://docs.google.com/presentation/d/1IaQRdNIiuwnBviAoblbSFQb5MpXEWaGLbORrwQn3GHE/edit#slide=id.p
+
