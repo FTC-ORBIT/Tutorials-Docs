@@ -16,7 +16,7 @@ First, we need to define all of our robot's states:
 .. code-block:: java
 
    public enum RobotState {
-    TRAVEL, INTAKE, CLAWINTAKE, DEPLETE
+    TRAVEL, INTAKE, DEPLETE
  }
 
 Then, to define the wanted state from the driver we need to make the following function:
@@ -24,9 +24,11 @@ Then, to define the wanted state from the driver we need to make the following f
 .. code-block:: java
     
     private static RobotState getState(Gamepad gamepad) {
-        return gamepad.dpad_up ? RobotState.TRAVEL
-                : gamepad.dpad_right ? RobotState.INTAKE
-                        : gamepad.dpad_left ? RobotState.CLAWINTAKE : lastState;
+        RobotState wantedState =  gamepad.b ? RobotState.TRAVEL
+                : gamepad.a ? RobotState.INTAKE
+                        : gamepad.right_bumper ? RobotState.DEPLETE : lastState;
+        lastState = wantedState;
+        return wantedState;
     }
 
 After we know the wanted state, now we need to create a function that will run periodically:
@@ -69,7 +71,6 @@ After we know the wanted state, now we need to create a function that will run p
         Claw.operate(clawState);
         Arm.operate(armState);
         Elevator.operate(elevatorState)
-        lastState = GlobalData.robotState;
     }
 
 Generic intake code example:
