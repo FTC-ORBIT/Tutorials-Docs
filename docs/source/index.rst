@@ -9,9 +9,6 @@ Check out :ref:`installation`.
 
    This project is under active development.
 
-.. image::
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BZFJJNM9TDiPINnoIhw4sYfUdFbBKkwsuA&s
-Contents
 --------
 
 .. toctree::
