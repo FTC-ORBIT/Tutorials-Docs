@@ -17,5 +17,5 @@ Check out :ref:`installation`.
    git
    general code structure
    roadrunner
-   ftc dashboard
+  ftc dashboard
    resources
