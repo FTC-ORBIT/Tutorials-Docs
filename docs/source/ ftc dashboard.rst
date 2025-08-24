@@ -1,29 +1,26 @@
 FTC Dashboard
-==============
-What is the FTC dashbord?
--------------------------
-A tool that creates a web server in your Control Hub and opens a port that any web browser can connect to.
-This tool contains many features, for example:
+=============
+
+What is the FTC dashboard?
+--------------------------
+
+The FTC Dashboard is a tool that creates a web server on your Control Hub and opens a port that any web browser can connect to. 
+It contains many features, including:
 
 - Changing variables without the need to download code
-
-- Running codes without the parent driver
-
+- Running code without the parent driver
 - More convenient presentation of data
-
-- Code activations without using a robot
-
-- Live from the camera + other sensors
-
-and more…
+- Activating code without using the robot
+- Live streaming from the camera and other sensors
+- And more...
 
 The repo
----------
-the repo: https://github.com/acmerobotics/ftc-dashboard?tab=readme-ov-file#ftc-dashboard
+--------
+
+The official repository: `FTC Dashboard GitHub <https://github.com/acmerobotics/ftc-dashboard?tab=readme-ov-file#ftc-dashboard>`_
 
 Useful links
------------
+------------
 
-- tutorial for the dashboard - openCv / visionPortal: https://youtu.be/vJhmmyvNqC0
-
-- Advanced Telemetry and Visualization with FTCDashboard: https://youtu.be/q2ntHU3mm18
+- Tutorial for the dashboard - OpenCV / VisionPortal: `YouTube <https://youtu.be/vJhmmyvNqC0>`_
+- Advanced Telemetry and Visualization with FTCDashboard: `YouTube <https://youtu.be/q2ntHU3mm18>`_
