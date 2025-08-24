@@ -1,21 +1,23 @@
 Welcome to Orbit FTC's documentation!
-===================================
+====================================
 
 Getting Started
---------
+---------------
+
 Check out :ref:`installation`.
 
 .. note::
 
    This project is under active development.
 
---------
-
 .. toctree::
+   :maxdepth: 2
+   :caption: Tutorials
+
    install
    java
    git
-   general code structure
+   general_code_structure
    roadrunner
-  ftc dashboard
+   ftc_dashboard
    resources
