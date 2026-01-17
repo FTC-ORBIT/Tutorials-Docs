@@ -13,13 +13,13 @@ Git installation
 Download git from the following link:
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-FTC SDK installation
+TEMPLATE installation
 ----------------
-Open git bash and type:
+Open git and go to the TEMPLATE repo. press use template to create your own repo from the TEMPLATE. than install the new repo with git bash like that:
 
 .. code-block:: console
 
-   (.venv) $ git clone https://github.com/FIRST-Tech-Challenge/FtcRobotController.git
+   (.venv) $ git clone 'YOUR REPO LINK HERE'
 
 TBD
 
