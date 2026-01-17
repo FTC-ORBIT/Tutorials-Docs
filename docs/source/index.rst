@@ -22,5 +22,5 @@ Contents
    git
    general_code_structure
    roadrunner
-   ftc dashboard
+   ftc_dashboard
    resources
