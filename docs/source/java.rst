@@ -1,7 +1,6 @@
 Java
 ===================================
 
-TEST UPDATE - THIS IS NEW CONTENT
 
 What is Java?
 --------
