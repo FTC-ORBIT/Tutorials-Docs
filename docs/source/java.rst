@@ -17,11 +17,11 @@ Tutorials:
 
 courses:
 ~~~~~~~
-   - `codecademy <https://www.codecademy.com/learn/learn-java>`_
-   - `w3schools <https://www.w3schools.com/java/>`_
+- `codecademy <https://www.codecademy.com/learn/learn-java>`_
+- `w3schools <https://www.w3schools.com/java/>`_
 
 pracrice:
 ~~~~~~~
-   - `exercism <https://www.exercism.org/tracks/java>`_
-   - `codingbat <https://codingbat.com/java>`_
-   - `Archived problems - project euler <https://projecteuler.net/archives>`_
+- `exercism <https://www.exercism.org/tracks/java>`_
+- `codingbat <https://codingbat.com/java>`_
+- `Archived problems - project euler <https://projecteuler.net/archives>`_
