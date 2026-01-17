@@ -11,7 +11,7 @@ Java is a high-level, general-purpose, object-oriented, and secure programming l
 
    java is the fundamental of FTC programming. so it is highly recommended to have a good understanding of java. 
    in order to achieve that, it is recommended to learn from the cources/doing a pracrices for half an hour every day 
-   until you you know java good engough, or a mentor says that you know engough.
+   until you you know java good enough, or a mentor says that you know enough.
 
 Tutorials:
 --------
